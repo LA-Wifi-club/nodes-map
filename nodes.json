@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8224950609727,
+          33.65007964104762
+        ]
+      },
+      "properties": {"maintainer": "kylerschin","ipv6":"fcc4:554a:6862:2c6b:4671:64fb:75f2:1d99"}
+    }
+  ]
+}
